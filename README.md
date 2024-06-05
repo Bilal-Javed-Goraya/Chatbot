@@ -54,10 +54,6 @@ streamlit run app.py
 ![Chat ](https://github.com/Bilal-Javed-Goraya/Chatbot/blob/main/App1.JPG)
 
 
-### Upload Image for Prediction
-
-![Upload Image for Prediction](https://github.com/Bilal-Javed-Goraya/Eye-Disease-Recognition/blob/main/App4.JPG)
-
 ## Contributing
 
 Contributions are welcome! If you have any ideas, suggestions, or bug fixes, please submit a pull request or open an issue in the GitHub repository.
