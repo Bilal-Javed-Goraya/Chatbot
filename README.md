@@ -44,6 +44,20 @@ streamlit run app.py
 - Enhanced user interface and customization options.
 
 
+### Run the Streamlit App
+![Run App](https://github.com/Bilal-Javed-Goraya/Chatbot/blob/main/Run.JPG)
+
+### Streamlit Chatbot App Interface and Upload PDFs to Chat with Chatbot
+![Chatbot App ](https://github.com/Bilal-Javed-Goraya/Chatbot/blob/main/App.JPG)
+
+### Chat with Chatbot by Asking Questions relating to PDFs
+![Chat ](https://github.com/Bilal-Javed-Goraya/Chatbot/blob/main/App1.JPG)
+
+
+### Upload Image for Prediction
+
+![Upload Image for Prediction](https://github.com/Bilal-Javed-Goraya/Eye-Disease-Recognition/blob/main/App4.JPG)
+
 ## Contributing
 
 Contributions are welcome! If you have any ideas, suggestions, or bug fixes, please submit a pull request or open an issue in the GitHub repository.
